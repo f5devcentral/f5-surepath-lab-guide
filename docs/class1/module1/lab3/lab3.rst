@@ -4,8 +4,7 @@ MCP Intercept
 * Open Claude Desktop
 * Wait to see the Github MCP Connector
 
-.. image:: https://labsurepathimages.blob.core.windows.net/picturessurepath/SCR-20260810-srer.png
-   :alt: image
+.. image:: ../../pictures/github.png
 
 * Send this prompt
 
