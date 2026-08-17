@@ -109,5 +109,5 @@ Gambling intent classifier on ChatGPT
 Check in real time what Surepath.ai is doing on the PII and sensitive content
 -----------------------------------------------------------------------------
 
-.. image:: ../pictures/masking.png
+.. image:: ../../pictures/masking.png
 
