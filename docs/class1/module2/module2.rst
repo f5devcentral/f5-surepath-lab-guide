@@ -1,5 +1,5 @@
-F5 Surepath.ai Console
-######################
+Console side - F5 Surepath.ai Admin Portal
+##########################################
 
 In this section, we will discover all the outcomes and outputs the F5 Surepath.ai console can deliver.
 
