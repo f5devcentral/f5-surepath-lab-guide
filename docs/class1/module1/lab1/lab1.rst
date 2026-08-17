@@ -27,6 +27,8 @@ You can find several bookmarks
 SSO is enabled for all links, no need to enter any credentials.
 
 .. warning:: **Accounts to log-in in the services.**
+   
    If ChatGPT or Claude are disconnected, select Google Auth and choose the account already saved in Chrome (fdemo2026@gmail.com)
+   
    If Surepath.ai Admin Portal is disconnected, enter **admin-ro@f5access.onmicrosoft.com**, then SSO with Entra ID. No password required.
 

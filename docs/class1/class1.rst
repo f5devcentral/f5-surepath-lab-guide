@@ -16,7 +16,7 @@ In this class, you will learn how to use the F5 Surepath.ai solution. Everything
 * Control
 * Reporting
 
-**Class 1 - All sections**
+**Class 1 - All modules**
 
 .. toctree::
    :maxdepth: 1
