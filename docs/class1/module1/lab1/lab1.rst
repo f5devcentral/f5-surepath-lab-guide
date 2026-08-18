@@ -11,8 +11,13 @@ The Windows 11 machine has several tools already installed and configured
 Login to win 11 RDP
 -------------------
 
-* login : user
-* password : user
+* login : ``user``
+* password : ``user``
+
+.. note:: A powershell script automatically runs on the first login to install and configure the Proxy settigns (PAC file, user authentication ...). 
+   
+   You can notice a custom email address set just for your session.
+
 
 
 Open Chrome

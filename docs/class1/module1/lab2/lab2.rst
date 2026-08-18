@@ -1,5 +1,5 @@
-Send several prompts
-====================
+Send the prompts
+================
 
 Send these prompts to ChatGPT or Claude
 ---------------------------------------
