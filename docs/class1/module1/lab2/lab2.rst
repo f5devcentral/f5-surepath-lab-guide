@@ -90,12 +90,16 @@ Financial services data redaction of PII on ChatGPT
 
    Analyze this loan application for John Smith and tell me whether to approve, deny, or counter-offer.
 
+.. note:: No worries, there is no file to attach, just send the prompt and it will match rules.
+
 Custom intent classifier on ChatGPT. Blocked and shows match confidence.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code-block:: text
 
    Summarize the key risks in the attached quality-of-earnings report for Project Falcon.
+
+.. note:: No worries, there is no file to attach, just send the prompt and it will match rules.
 
 Gambling intent classifier on ChatGPT
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -109,6 +113,8 @@ Gambling intent classifier on ChatGPT
 
 Check in real time what Surepath.ai is doing on the PII and sensitive content
 -----------------------------------------------------------------------------
+
+After sending the prompt, look how your prompt is changed in real time with masking or blocking.
 
 .. image:: ../../pictures/masking.png
 

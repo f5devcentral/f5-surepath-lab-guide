@@ -30,6 +30,8 @@ You can find several bookmarks
 * F5 SurePath Admin Portal - READ ONLY access to the F5 AI Security Platform Portal
 * ChatGPT, Claude and GMAIL
 
+.. image:: ../../pictures/bookmarks.png
+
 
 .. note:: SSO is enabled for all links, no need to enter any credentials.
 
