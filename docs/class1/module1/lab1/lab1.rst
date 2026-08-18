@@ -18,6 +18,7 @@ Login to win 11 RDP
    
    You can notice a custom email address set just for your session.
 
+   .. image:: ../../pictures/powershell.png
 
 
 Open Chrome
