@@ -20,7 +20,7 @@ It covers:
 
 * ``(Class 2)`` F5 AI Security - Surepath.ai - Build your own lab 
 
-  * Not yet available. Coming soon
+  * Not yet available. Coming soon !!!
 
 
 .. toctree::
