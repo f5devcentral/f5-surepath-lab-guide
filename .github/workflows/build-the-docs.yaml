@@ -8,7 +8,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     env:
-      S3_DIR: training/community/f5xc-emea-workshop/html
+      S3_DIR: training/community/f5-surepath-lab-guide/html
 
     steps:
     - uses: actions/checkout@v2

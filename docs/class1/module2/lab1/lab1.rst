@@ -4,20 +4,27 @@ Connect to the Surepath.ai Admin Portal
 * In Chrome, click on Surepath Admin Portal - No Login required, SSO done
 * On the left menu, click on User Activity. You can see all prompts
 
-.. image:: https://labsurepathimages.blob.core.windows.net/picturessurepath/SCR-20260805-ntdz.png
-   :alt: Image
+You can see all the requests from all the users of this tenant (WW F5ers). 
+
+.. note:: Some requests can have ``Intent`` or other categories to N/A, no worries, this is due to the Powershell script simulating your user identity. Discard them.
+
+.. image:: ../../pictures/user-activity.png
 
 * Select one prompt, and click on the right arrow, to pop out the new window with the details
 
-.. image:: https://labsurepathimages.blob.core.windows.net/picturessurepath/SCR-20260805-nzqt.png
+.. image:: ../../pictures/right-arrow.png
    :alt: Image
 
 * Navigate into the details and check the warning and logs.
 
-.. image:: https://labsurepathimages.blob.core.windows.net/picturessurepath/SCR-20260805-oavm.png
+.. image:: ../../pictures/event-details-1.png
+
+.. image:: ../../pictures/event-details.png
    :alt: Image
 
-* MCP Demo
+* For the MCP Demo, when you send the prompt with Claude Desktop with the Github MCP server, find the request in the list and click on the details.
 
-.. image:: https://labsurepathimages.blob.core.windows.net/picturessurepath/SCR-20260810-suqv.png
+You can see a new tab ``Tools``. These are the MCP tools that are running on the MCP server. 
+
+.. image:: ../../pictures/mcp-tool-output.png
    :alt: image

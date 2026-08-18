@@ -4,8 +4,7 @@ MCP Intercept
 * Open Claude Desktop
 * Wait to see the Github MCP Connector
 
-.. image:: https://labsurepathimages.blob.core.windows.net/picturessurepath/SCR-20260810-srer.png
-   :alt: image
+.. image:: ../../pictures/github-toggle.png
 
 * Send this prompt
 
@@ -13,3 +12,4 @@ MCP Intercept
 
    List all the files from this Github repo : https://github.com/MattDierick/arcadia-finance-3.0
 
+You will see what Surepath.ai detected in the next section.

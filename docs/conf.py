@@ -5,10 +5,10 @@
 # ------------
 #
 # REQUIRED: Your class/lab name
-classname = "F5 XC EMEA Workshop"
+classname = "F5 AI Security - Surepath.ai"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
-github_repo = "https://github.com/f5devcentral/f5xc-emea-workshop"
+github_repo = "https://github.com/f5devcentral/f5-surepath-lab-guide"
 
 #
 # END CONFIG
@@ -27,7 +27,7 @@ import custom_roles
 
 
 year = time.strftime("%Y")
-eventname = "Agility %s Hands-on Lab Guide" % (year)
+eventname = "%s Hands-on Lab Guide" % (year)
 
 rst_prolog = """
 .. |classname| replace:: %s
