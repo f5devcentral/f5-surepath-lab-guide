@@ -10,10 +10,11 @@ Check and learn the policy applied
 
 .. image:: ../../pictures/services.png
 
-* In the MCP Tools tab, check the tools allowed. You can see we only allow ``Github`` with ``List`` tools.
+* In the MCP Tools tab, check the tools allowed. You can see we only allow ``Github`` with ``List`` tools. And also check the default ``actions``
 
-.. image:: ../../pictures/mcp-allowed-tools.png
+  .. note:: As you can see, ``read-only tools`` are allowed even if they are not explicitily allowed in the policy. And all other tools are blocked.
 
+.. image:: ../../pictures/mcp-settings.png
 
 * In the ``Sensitive Data`` tab, you can see the sensitive entities enabled.
 
@@ -28,3 +29,8 @@ Check and learn the policy applied
   * You can see that 100 messages has been added to learn the Classifier on what to detect.
 
 .. image:: ../../pictures/classifiers-messages.png
+
+* Then, last things to see today, are the ``insights``. Click on the left menu ``Insights`` to see the list of insights.
+
+.. image:: ../../pictures/insights.png
+
