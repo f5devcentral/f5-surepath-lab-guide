@@ -1,5 +1,5 @@
-Connect to the Surepath.ai Admin Portal
-=======================================
+Check and learn from the user activity logs
+===========================================
 
 * In Chrome, click on Surepath Admin Portal - No Login required, SSO done
 * On the left menu, click on User Activity. You can see all prompts
