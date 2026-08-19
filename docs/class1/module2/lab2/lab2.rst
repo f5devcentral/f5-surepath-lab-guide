@@ -1,0 +1,43 @@
+Check and learn the policy applied
+==================================
+
+* In Chrome, click on Surepath Admin Portal - No Login required, SSO done
+* On the left menu, click on ``Default Policy``. 
+
+.. image:: ../../pictures/default-policy.png
+   :scale: 50 %
+
+* You can start by the ``Services`` tab, and check the services that are enabled and allowed. As you can see a service can be allowed but in Monitoring mode, meaning no action is taken, only monitoring and logging.
+
+.. image:: ../../pictures/services.png
+   :scale: 50 %
+
+* In the MCP Tools tab, check the tools allowed. You can see we only allow ``Github`` with ``List`` tools. And also check the default ``actions``
+
+  .. note:: As you can see, ``read-only tools`` are allowed even if they are not explicitily allowed in the policy. And all other tools are blocked.
+
+.. image:: ../../pictures/mcp-settings.png
+   :scale: 50 %
+
+* In the ``Sensitive Data`` tab, you can see the sensitive entities enabled.
+
+.. image:: ../../pictures/pii.png
+   :scale: 50 %
+
+* The ``Classifiers`` are set in 2 separated sections. The intent is set on the left menu and the classifiers are enabled into the policy. As you can see, 4 classifiers are enabled in blocking mode.
+
+.. image:: ../../pictures/classifiers-menu.png
+   :scale: 50 %
+
+* Click on the left menu ``Classifiers`` to see the list of classifiers and select one by clicking on the right arrow.
+
+  * You can see that 100 messages has been added to learn the Classifier on what to detect.
+
+.. image:: ../../pictures/classifiers-messages.png
+   :scale: 50 %
+
+* Then, last things to see today, are the ``insights``. Click on the left menu ``Insights`` to see the list of insights.
+
+.. image:: ../../pictures/insights.png
+   :scale: 50 %
+

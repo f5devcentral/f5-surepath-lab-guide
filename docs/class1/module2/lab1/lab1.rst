@@ -1,5 +1,5 @@
-Connect to the Surepath.ai Admin Portal
-=======================================
+Check and learn from the user activity logs
+===========================================
 
 * In Chrome, click on Surepath Admin Portal - No Login required, SSO done
 * On the left menu, click on User Activity. You can see all prompts
@@ -18,6 +18,7 @@ You can see all the requests from all the users of this tenant (WW F5ers).
 * Navigate into the details and check the warning and logs.
 
 .. image:: ../../pictures/event-details-1.png
+   :scale: 75 %
 
 .. image:: ../../pictures/event-details.png
    :alt: Image
@@ -28,3 +29,9 @@ You can see a new tab ``Tools``. These are the MCP tools that are running on the
 
 .. image:: ../../pictures/mcp-tool-output.png
    :alt: image
+
+Click on the message to see the tools used with the prompt.
+
+.. image:: ../../pictures/details-mcp.png
+   :alt: image
+   :scale: 75 %
