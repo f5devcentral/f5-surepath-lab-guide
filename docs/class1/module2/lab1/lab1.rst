@@ -18,6 +18,7 @@ You can see all the requests from all the users of this tenant (WW F5ers).
 * Navigate into the details and check the warning and logs.
 
 .. image:: ../../pictures/event-details-1.png
+   :scale: 50 %
 
 .. image:: ../../pictures/event-details.png
    :alt: Image
@@ -33,3 +34,4 @@ Click on the message to see the tools used with the prompt.
 
 .. image:: ../../pictures/details-mcp.png
    :alt: image
+   :scale: 50 %
