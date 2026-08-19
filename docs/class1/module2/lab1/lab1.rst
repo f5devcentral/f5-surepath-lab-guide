@@ -31,5 +31,5 @@ You can see a new tab ``Tools``. These are the MCP tools that are running on the
 
 Click on the message to see the tools used with the prompt.
 
-.. image:: ../../pictures/detail-mcp.png
+.. image:: ../../pictures/details-mcp.png
    :alt: image

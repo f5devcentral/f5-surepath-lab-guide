@@ -21,7 +21,7 @@ Check and learn the policy applied
 
 * The ``Classifiers`` are set in 2 separated sections. The intent is set on the left menu and the classifiers are enabled into the policy. As you can see, 4 classifiers are enabled in blocking mode.
 
-.. image:: ../../pictures/classifiers-menus.png
+.. image:: ../../pictures/classifiers-menu.png
 
 * Click on the left menu ``Classifiers`` to see the list of classifiers and select one by clicking on the right arrow.
 
