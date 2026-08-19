@@ -10,3 +10,21 @@ Check and learn the policy applied
 
 .. image:: ../../pictures/services.png
 
+* In the MCP Tools tab, check the tools allowed. You can see we only allow ``Github`` with ``List`` tools.
+
+.. image:: ../../pictures/mcp-allowed-tools.png
+
+
+* In the ``Sensitive Data`` tab, you can see the sensitive entities enabled.
+
+.. image:: ../../pictures/pii.png
+
+* The ``Classifiers`` are set in 2 separated sections. The intent is set on the left menu and the classifiers are enabled into the policy. As you can see, 4 classifiers are enabled in blocking mode.
+
+.. image:: ../../pictures/classifiers-menus.png
+
+* Click on the left menu ``Classifiers`` to see the list of classifiers and select one by clicking on the right arrow.
+
+  * You can see that 100 messages has been added to learn the Classifier on what to detect.
+
+.. image:: ../../pictures/classifiers-messages.png
