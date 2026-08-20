@@ -1,7 +1,7 @@
 Check and learn from the user activity logs
 ===========================================
 
-* In Chrome, click on Surepath Admin Portal - No Login required, SSO done
+* In Chrome, click on F5 AI Usage Controls Admin Portal - No Login required, SSO done
 * On the left menu, click on ``User Activity``. You can see all prompts
 
 You can see all the requests from all the users of this tenant (WW F5ers). 

@@ -1,5 +1,5 @@
-Class 2 - F5 AI Security - Surepath.ai - Build your own lab 
-###########################################################
+Class 2 - F5 AI Usage Controls - Build your own lab 
+###################################################
 
 Lab Maintainers:
 

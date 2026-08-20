@@ -26,8 +26,8 @@ Open Chrome
 
 You can find several bookmarks
 
-* Surepath AI Ready - check demo status
-* F5 SurePath Admin Portal - READ ONLY access to the F5 AI Security Platform Portal
+* F5 AI Usage Controls READY - check demo status
+* F5 AI Usage Controls Admin Portal - READ ONLY access to the F5 AI Usage Controls Portal
 * ChatGPT, Claude and GMAIL
 
 .. image:: ../../pictures/bookmarks.png
@@ -39,5 +39,5 @@ You can find several bookmarks
    
    If ChatGPT or Claude are disconnected, select Google Auth and choose the account already saved in Chrome (fdemo2026@gmail.com)
    
-   If Surepath.ai Admin Portal is disconnected, enter **admin-ro@f5access.onmicrosoft.com**, then SSO with Entra ID. No password required.
+   If F5 AI Usage Controls Admin Portal is disconnected, enter **admin-ro@f5access.onmicrosoft.com**, then SSO with Entra ID. No password required.
 

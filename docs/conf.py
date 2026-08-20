@@ -5,7 +5,7 @@
 # ------------
 #
 # REQUIRED: Your class/lab name
-classname = "F5 AI Security - Surepath.ai"
+classname = "F5 AI Usage Controls"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
 github_repo = "https://github.com/f5devcentral/f5-surepath-lab-guide"

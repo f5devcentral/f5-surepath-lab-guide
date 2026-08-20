@@ -12,4 +12,4 @@ MCP Intercept
 
    List all the files from this Github repo : https://github.com/MattDierick/arcadia-finance-3.0
 
-You will see what Surepath.ai detected in the next section.
+You will see what F5 AI Usage Controls detected in the next section.
