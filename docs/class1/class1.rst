@@ -50,7 +50,7 @@ F5 AI Security - Surepath.ai Architecture
 
 High-level architectural overview showing traffic interception, policy enforcement, and platform components. Visual reference diagram for system architecture.
 
-.. image:: /pictures/archi.png
+.. image:: ./pictures/archi.png
 
 ----
 
