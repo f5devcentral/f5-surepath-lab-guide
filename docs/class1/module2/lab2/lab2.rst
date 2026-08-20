@@ -41,3 +41,6 @@ Check and learn the policy applied
 .. image:: ../../pictures/insights.png
    :scale: 50 %
 
+----
+
+.. note:: This is the end of the lab guide. Feel free to navigate and explore the Surepath Admin Portal. You can also send your own prompts to try triggering BLOCK or REDACT.
