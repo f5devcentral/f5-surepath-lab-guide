@@ -43,6 +43,16 @@ In the preferred model, your SASE platform performs TLS interception and forward
 Alternatively, endpoints can use a Proxy PAC URL (a browser/network auto-config file) to send only GenAI domains to the SurePath AI TLS proxy, or SASE can forward without upstream TLS interception when endpoints trust the SurePath AI Root CA (our certificate authority). 
 The private portal is always accessed directly and is governed by portal policy and RBAC.
 
+----
+
+F5 AI Security - Surepath.ai Architecture
+-----------------------------------------
+
+High-level architectural overview showing traffic interception, policy enforcement, and platform components. Visual reference diagram for system architecture.
+
+.. image:: /pictures/archi.png
+
+----
 
 **Class 1 - All modules**
 
