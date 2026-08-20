@@ -1,7 +1,7 @@
 Check and learn the policy applied
 ==================================
 
-* In Chrome, click on Surepath Admin Portal - No Login required, SSO done
+* In Chrome, click on F5 AI Usage Controls Admin Portal - No Login required, SSO done
 * On the left menu, click on ``Default Policy``. 
 
 .. image:: ../../pictures/default-policy.png

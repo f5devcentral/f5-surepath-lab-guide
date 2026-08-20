@@ -1,5 +1,5 @@
-Class 1 - F5 AI Security - Surepath.ai READ ONLY
-################################################
+Class 1 - F5 AI Usage Controls - READ ONLY
+##########################################
 
 Lab Maintainers:
 
@@ -7,7 +7,7 @@ Lab Maintainers:
 
 |
 
-In this class, you will learn how to use the F5 Surepath.ai solution. Everything is pre-configured, so you can easily explore and learn about all of Surepath.ai's capabilities:
+In this class, you will learn how to use the F5 AI Usage Controls solution. Everything is pre-configured, so you can easily explore and learn about all of F5 AI Usage Controls's capabilities:
 
 * Interception
 * Detection
@@ -16,8 +16,8 @@ In this class, you will learn how to use the F5 Surepath.ai solution. Everything
 * Control
 * Reporting
 
-SurePath AI is a network-level governance platform that enables safe, compliant, and high‑velocity adoption of Generative AI (GenAI) across the enterprise. 
-Rather than blocking public AI outright or relying only on coarse WAAP controls, SurePath AI intercepts GenAI traffic, applies fine‑grained policy (access control, content controls, and PII detection), and provides an auditable record of all workforce AI use. 
+SurePath AI is a network-level governance platform that enables safe, compliant, and high-velocity adoption of Generative AI (GenAI) across the enterprise. 
+Rather than blocking public AI outright or relying only on coarse WAAP controls, SurePath AI intercepts GenAI traffic, applies fine-grained policy (access control, content controls, and PII detection), and provides an auditable record of all workforce AI use. 
 The result is accelerated AI productivity with reduced risk of data exposure, policy violations, and shadow AI.
 
 ----
@@ -45,8 +45,8 @@ The private portal is always accessed directly and is governed by portal policy 
 
 ----
 
-F5 AI Security - Surepath.ai Architecture
------------------------------------------
+F5 AI Usage Controls Architecture
+---------------------------------
 
 High-level architectural overview showing traffic interception, policy enforcement, and platform components. Visual reference diagram for system architecture.
 
