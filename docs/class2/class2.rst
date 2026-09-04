@@ -1,5 +1,5 @@
-Class 2 - F5 AI Usage Controls - Build your own lab 
-###################################################
+Class 2 - F5 Workforce AI security - Build your own lab 
+#######################################################
 
 Lab Maintainers:
 

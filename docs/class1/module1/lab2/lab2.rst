@@ -4,7 +4,7 @@ Send the prompts
 Send these prompts to ChatGPT or Claude
 ---------------------------------------
 
-Send the prompts below to ChatGPT or/and Claude. Notice the F5 AI Usage Controls blocking or masking actions on the client side. You can see the results in real time.
+Send the prompts below to ChatGPT or/and Claude. Notice the F5 Workforce AI security blocking or masking actions on the client side. You can see the results in real time.
 
 Marketing data redaction on ChatGPT
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -93,7 +93,7 @@ Financial services data redaction of PII on ChatGPT
 .. note:: No worries, there is no file to attach, just send the prompt and it will match rules.
 
 Custom intent classifier on ChatGPT. Blocked and shows match confidence.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code-block:: text
 
@@ -111,8 +111,8 @@ Gambling intent classifier on ChatGPT
 ----
 
 
-Check in real time what F5 AI Usage Controls is doing on the PII and sensitive content
---------------------------------------------------------------------------------------
+Check in real time what F5 Workforce AI security is doing on the PII and sensitive content
+------------------------------------------------------------------------------------------
 
 After sending the prompt, look how your prompt is changed in real time with masking or blocking.
 
