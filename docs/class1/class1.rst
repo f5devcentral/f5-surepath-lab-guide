@@ -1,5 +1,5 @@
-Class 1 - F5 AI Usage Controls - READ ONLY
-##########################################
+Class 1 - F5 Workforce AI security - READ ONLY
+##############################################
 
 Lab Maintainers:
 
@@ -7,7 +7,7 @@ Lab Maintainers:
 
 |
 
-In this class, you will learn how to use the F5 AI Usage Controls solution. Everything is pre-configured, so you can easily explore and learn about all of F5 AI Usage Controls's capabilities:
+In this class, you will learn how to use the F5 Workforce AI security solution. Everything is pre-configured, so you can easily explore and learn about all of F5 Workforce AI security's capabilities:
 
 * Interception
 * Detection
@@ -45,8 +45,8 @@ The private portal is always accessed directly and is governed by portal policy 
 
 ----
 
-F5 AI Usage Controls Architecture
----------------------------------
+F5 Workforce AI security Architecture
+-------------------------------------
 
 High-level architectural overview showing traffic interception, policy enforcement, and platform components. Visual reference diagram for system architecture.
 
