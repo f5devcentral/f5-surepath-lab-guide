@@ -1,6 +1,11 @@
 Send the prompts
 ================
 
+.. warning:: **Accounts to log-in in the services.**
+   
+   If ChatGPT or Claude are disconnected, select Google Auth and choose the account already saved in Chrome (fdemo2026@gmail.com)
+   
+
 Send these prompts to ChatGPT or Claude
 ---------------------------------------
 
