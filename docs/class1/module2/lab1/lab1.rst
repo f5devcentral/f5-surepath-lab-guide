@@ -1,7 +1,13 @@
 Check and learn from the user activity logs
 ===========================================
 
-* In Chrome, click on F5 Workforce AI security Admin Portal - No Login required, SSO done
+* In Chrome, click on F5 Workforce AI security Admin Portal - No Login required, SSO done.
+
+.. warning:: **Accounts to log-in in the services.**
+   
+   If F5 Workforce AI security Admin Portal is disconnected, enter **admin-ro@f5access.onmicrosoft.com**, then SSO with Entra ID. No password required.
+
+
 * On the left menu, click on ``User Activity``. You can see all prompts
 
 You can see all the requests from all the users of this tenant (WW F5ers). 
